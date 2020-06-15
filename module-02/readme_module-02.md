@@ -1,3 +1,4 @@
 # Módulo 2
 
-##### A semana semana da aceleração
+##### Pré-processamento de Dados em Python
+
