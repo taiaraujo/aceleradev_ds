@@ -16,8 +16,8 @@ O programa é dividido em módulos semanais dentro da plataforma. Os módulos co
 
 ### To do
 
-- [x] *Módulo 01 - disponibilizado em: 09/06/2020*
-- [ ] Módulo 02 - disponibilizado em: 15/06/2020
+- [x] **Módulo 01 - disponibilizado em: 09/06/2020**
+- [ ] *Módulo 02 - disponibilizado em: 15/06/2020*
 - [ ] Módulo 03 - disponibilizado em: 22/06/2020
 - [ ] Módulo 04 - disponibilizado em: 29/06/2020
 - [ ] Módulo 05 - disponibilizado em: 06/07/2020
