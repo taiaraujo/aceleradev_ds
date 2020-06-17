@@ -1,3 +1,4 @@
+streamlit
 aniso8601==8.0.0
 appdirs==1.4.3
 astroid==2.4.1

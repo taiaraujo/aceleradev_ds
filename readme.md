@@ -14,6 +14,8 @@ O programa é dividido em módulos semanais dentro da plataforma. Os módulos co
 
 - https://www.codenation.dev/
 
+- https://github.com/codenation-dev/Data-Science-Online
+
 ### To do
 
 - [x] **Módulo 01 - disponibilizado em: 09/06/2020**
