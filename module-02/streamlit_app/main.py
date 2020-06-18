@@ -26,6 +26,7 @@ def get_imputation(df):
 def main():
     st.title('AceleraDev Data Science')
     st.subheader('Semana 2 - Pré-processamento de Dados em Python')
+    st.markdown('Desenvolvedora: Natália Araújo')
 
     file = st.file_uploader('Escolha a base de dados que deseja analisar (.csv)', type='csv')
 

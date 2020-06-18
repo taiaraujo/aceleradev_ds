@@ -1,6 +1,6 @@
 # AceleraDev Data Science
 
-##### Programa de aceleração e capacitação da Codenation
+##### Programa de aceleração e capacitação em Data Science da Codenation
 
 ## Getting Started
 
@@ -9,6 +9,9 @@
 É um programa de capacitação gratuito para profissionais de tecnologia. Durante 10 semanas, devs e cientistas de dados têm acesso a desafios, conteúdos e à Comunidade Codenation para adquirirem e praticarem as habilidades técnicas mais utilizadas por empresas de tecnologia de todo o mundo.
 
 O programa é dividido em módulos semanais dentro da plataforma. Os módulos contam com aulas, conteúdos na plataforma, desafios e desenvolvimento do projeto prático ao longo das semanas do programa.
+
+Este repositório conterá todos os projetos e demais conteúdos que serão desenvolvidos durante
+a capacitação.
 
 ### Referências
 
@@ -19,7 +22,7 @@ O programa é dividido em módulos semanais dentro da plataforma. Os módulos co
 ### To do
 
 - [x] **Módulo 01 - disponibilizado em: 09/06/2020**
-- [ ] *Módulo 02 - disponibilizado em: 15/06/2020*
+- [x] **Módulo 02 - disponibilizado em: 15/06/2020**
 - [ ] Módulo 03 - disponibilizado em: 22/06/2020
 - [ ] Módulo 04 - disponibilizado em: 29/06/2020
 - [ ] Módulo 05 - disponibilizado em: 06/07/2020
@@ -36,11 +39,7 @@ O programa é dividido em módulos semanais dentro da plataforma. Os módulos co
 
 ### Instalação
 
-#### Instalação dos pacotes utilizados nos projetos deste repositótio
-
-```bash
-> pip install -r requirements.txt
-```
+- Cada projeto terá seu próprio _README_ onde terá as informações de instalações e pacotes.
 
 ## LICENSE
 MIT License
