@@ -1,4 +1,4 @@
-# Steamlit App
+# Streamlit App
 
 Segundo a própria equipe desenvolvedora: a estrutura de aplicativos de código aberto da Streamlit 
 é a maneira mais fácil para os cientistas de dados e engenheiros de aprendizado de máquina criarem aplicativos bonitos e com bom desempenho em apenas algumas horas! Tudo em Python puro. Tudo de graça.
