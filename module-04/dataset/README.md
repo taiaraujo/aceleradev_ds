@@ -2,8 +2,7 @@
 
 # HTRU2
 
-Author: Rob Lyon, School of Computer Science & Jodrell Bank Centre for Astrophysics,
-		University of Manchester, Kilburn Building, Oxford Road, Manchester M13 9PL.
+## Author: Rob Lyon, School of Computer Science & Jodrell Bank Centre for Astrophysics, University of Manchester, Kilburn Building, Oxford Road, Manchester M13 9PL.
 
 Contact:	rob@scienceguyrob.com or robert.lyon@.manchester.ac.uk
 Web:		http://www.scienceguyrob.com or http://www.cs.manchester.ac.uk
