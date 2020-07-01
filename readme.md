@@ -23,8 +23,8 @@ a capacitação.
 
 - [x] **Módulo 01 - disponibilizado em: 09/06/2020**
 - [x] **Módulo 02 - disponibilizado em: 15/06/2020**
-- [ ] Módulo 03 - disponibilizado em: 22/06/2020
-- [ ] Módulo 04 - disponibilizado em: 29/06/2020
+- [x] **Módulo 03 - disponibilizado em: 22/06/2020**
+- [x] **Módulo 04 - disponibilizado em: 29/06/2020**
 - [ ] Módulo 05 - disponibilizado em: 06/07/2020
 - [ ] Módulo 06 - disponibilizado em: 13/07/2020
 - [ ] Módulo 07 - disponibilizado em: 20/07/2020
