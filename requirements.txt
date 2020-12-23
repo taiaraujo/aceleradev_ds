@@ -21,7 +21,7 @@ dask==1.1.4
 deap==1.2.2
 decorator==4.4.0
 defusedxml==0.6.0
-Django==2.2.3
+Django==2.2.13
 entrypoints==0.3
 ephem==3.7.7.1
 fixed2free2==0.8
